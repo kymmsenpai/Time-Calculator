@@ -1,4 +1,4 @@
 # Time-Calculator
 
 <p>This code give the result from time that you input and duration what you want</p>
-<h1>ok</h1>
+<p>example input : \n'11:00 AM','00:32' --> '11:32' </p>
